@@ -168,7 +168,6 @@ When developing the Quality Management System (QMS) for our project, we have sev
 - Can leverage pre-built modules for faster development.
 - Flexibility to add custom features for unique requirements.
 - May offer a balance between cost-effectiveness and customization.
-- Possibility to integrate with specific APIs of NetSuite and Zendesk.
 
 **Cons:**
 
@@ -246,12 +245,7 @@ When developing the Quality Management System (QMS) for our project, we have sev
    - **Risk:** Data breaches or unauthorized access to sensitive information.
    - **Mitigation:** Implement robust security measures, encrypt sensitive data, and regularly conduct security audits. Comply with data protection regulations.
 
-5. User Acceptance:
-
-   - **Risk:** Resistance from end-users in adopting the new QMS.
-   - **Mitigation:** Involve end-users early in the development process, provide adequate training and support, and address user feedback promptly.
-
-6. Integration Failures:
+5. Integration Failures:
    - **Risk:** Integration issues leading to data discrepancies and process failures.
    - **Mitigation:** Conduct extensive testing of integration scenarios, implement error handling mechanisms, and have a backup plan for manual data synchronization if needed.
 
